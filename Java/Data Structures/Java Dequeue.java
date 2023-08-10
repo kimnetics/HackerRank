@@ -1,3 +1,4 @@
+    // https://www.hackerrank.com/challenges/java-dequeue/problem
     import java.util.*;
     public class test {
         static int maxCount = 0;
