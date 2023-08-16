@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/java-priority-queue/problem
+// https://www.hackerrank.com/challenges/java-priority-queue/problem
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
